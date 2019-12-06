@@ -1,0 +1,1 @@
+varactors is a semiconductors diode with the properties of a voltage dependent capacitors specifically.
